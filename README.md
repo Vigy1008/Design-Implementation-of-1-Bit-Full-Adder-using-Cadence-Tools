@@ -41,7 +41,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-![Screenshot 2025-04-11 142821](https://github.com/user-attachments/assets/f1ad2463-1f53-4cff-b844-1634ba94d46b)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/266c66f1-6c6b-4874-abab-cb2bcb275a99" />
+
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
 
@@ -49,9 +50,12 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-04-11 142904](https://github.com/user-attachments/assets/dc5a3489-8b68-427e-adb9-c71cee1367a4)
-![Screenshot 2025-04-11 142843](https://github.com/user-attachments/assets/1f58672f-b0cb-4455-b436-9236da9a6af8)
-![Screenshot 2025-04-11 142750](https://github.com/user-attachments/assets/308f0333-8d0e-4b4e-a6cd-41d857c3d8bf)
+![WhatsApp Image 2025-10-07 at 9 06 50 AM](https://github.com/user-attachments/assets/15ecd45e-0c85-4503-9b32-3ff9688322d1)
+![WhatsApp Image 2025-10-07 at 9 05 52 AM](https://github.com/user-attachments/assets/3200e1e5-d508-452b-957f-aada0841caaf)
+
+
+![WhatsApp Image 2025-10-07 at 9 05 39 AM](https://github.com/user-attachments/assets/83e6f205-d311-43fa-85ee-63959cc4b49b)
+
 
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
